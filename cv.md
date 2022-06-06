@@ -10,8 +10,8 @@ I am a hard working, honest individual. I am a good timekeeper, always willing t
 ## Education: 
 * University: Moscow State University of Instrument Engineering and Computer Science
 Courses:
-[CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-[FreeCodeCamp](https://www.freecodecamp.org/) - Responsive Web Design
+* [CS50 lectures](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+* [FreeCodeCamp](https://www.freecodecamp.org/) - Responsive Web Design
 ## Skills
 * HTML5, CSS3/SASS/SCSS/BEM, GULP4
 * JavaScript Basics
@@ -72,5 +72,5 @@ public function makeWordForms($count, $text_forms)
 Project examples as part of the Upmix team:
 [grand-mozaika.ru](https://grand-mozaika.ru), [antarescompany.ru](https://antarescompany.ru), [letoestate.ru](https://letoestate.ru), [one-estate.ru](https://one-estate.ru), [koka.press](https://koka.press), [avva-rus.ru](https://avva-rus.ru), [ecofuril.ru](https://ecofuril.ru), [ecofucin.ru](https://ecofucin.ru)
 ## English
-Russian - native speaker.
-English - A2
+* Russian - **native speaker**
+* English - **A2**
