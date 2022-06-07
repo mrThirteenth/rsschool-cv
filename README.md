@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mrthirteenth.github.io/rsschool-cv/
